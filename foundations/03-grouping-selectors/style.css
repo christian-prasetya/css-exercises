@@ -1,0 +1,14 @@
+.blackie,
+.yellowish {
+  font-size: 20px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.blackie {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.yellowish {
+  background-color: yellow;
+}
